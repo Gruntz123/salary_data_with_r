@@ -1,4 +1,3 @@
-# %% [code]
 ## About this data set
 
 Hello guys! I just finished the Google Certificate on Data Analysis. This was the data set I picked for my final project.
