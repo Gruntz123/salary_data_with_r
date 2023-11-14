@@ -1,1 +1,0 @@
-<iframe src="https://www.kaggle.com/embed/henriqueheisszappe/global-salary-data-in-r?kernelSessionId=147762480" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Global Salary Data, in R"></iframe>
