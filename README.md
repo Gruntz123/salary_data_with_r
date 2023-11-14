@@ -5,10 +5,15 @@ You're given a dataset to work with.
 
 Your main goals are:
 
-Find the highest-paying country;
-Find the lowest-paying country;
-Find the average payment in the world, monthly;
-Group payment by continent;
-Sum averages and compare the countries' share of salaries.
+1- Find the highest-paying country;
+
+2- Find the lowest-paying country;
+
+3- Find the average payment in the world, monthly;
+
+4- Group payment by continent;
+
+5- Sum averages and compare the countries' share of salaries.
+
 
 The company also told you that you can go further in your analysis.
